@@ -26,6 +26,7 @@
     오후 : Meterpreter Module에 대한 이해 및 실습, PTES 과정 수행   
 
 
++BONUS) Car Hacking/Social Engineering   
 
 
 
