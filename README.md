@@ -50,5 +50,7 @@ Metasploit - The Penetration Tester's Guide(2011) by David Kennedy, Jim O'Gorman
 Metasploit Penetration Testing Cookbook 3rd Edition(2018) by Daniel Teixeira, Abhinav Singh, Monika Agarwal   
 
 
+**위키독스**   
+https://wikidocs.net/book/4882
 
 
